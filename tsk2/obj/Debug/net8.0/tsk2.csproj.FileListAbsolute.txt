@@ -1,0 +1,15 @@
+C:\Users\User\lesson2\tsk2\bin\Debug\net8.0\tsk2.exe
+C:\Users\User\lesson2\tsk2\bin\Debug\net8.0\tsk2.deps.json
+C:\Users\User\lesson2\tsk2\bin\Debug\net8.0\tsk2.runtimeconfig.json
+C:\Users\User\lesson2\tsk2\bin\Debug\net8.0\tsk2.dll
+C:\Users\User\lesson2\tsk2\bin\Debug\net8.0\tsk2.pdb
+C:\Users\User\lesson2\tsk2\obj\Debug\net8.0\tsk2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\lesson2\tsk2\obj\Debug\net8.0\tsk2.AssemblyInfoInputs.cache
+C:\Users\User\lesson2\tsk2\obj\Debug\net8.0\tsk2.AssemblyInfo.cs
+C:\Users\User\lesson2\tsk2\obj\Debug\net8.0\tsk2.csproj.CoreCompileInputs.cache
+C:\Users\User\lesson2\tsk2\obj\Debug\net8.0\tsk2.sourcelink.json
+C:\Users\User\lesson2\tsk2\obj\Debug\net8.0\tsk2.dll
+C:\Users\User\lesson2\tsk2\obj\Debug\net8.0\refint\tsk2.dll
+C:\Users\User\lesson2\tsk2\obj\Debug\net8.0\tsk2.pdb
+C:\Users\User\lesson2\tsk2\obj\Debug\net8.0\tsk2.genruntimeconfig.cache
+C:\Users\User\lesson2\tsk2\obj\Debug\net8.0\ref\tsk2.dll
